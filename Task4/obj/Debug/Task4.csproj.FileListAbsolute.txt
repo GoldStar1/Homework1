@@ -1,0 +1,6 @@
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\Task4\bin\Debug\Task4.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\Task4\bin\Debug\Task4.exe
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\Task4\bin\Debug\Task4.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\Task4\obj\Debug\Task4.exe
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\Task4\obj\Debug\Task4.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache

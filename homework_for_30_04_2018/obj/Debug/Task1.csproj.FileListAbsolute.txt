@@ -1,0 +1,6 @@
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\homework_for_30_04_2018\bin\Debug\homework_for_30_04_2018.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\homework_for_30_04_2018\bin\Debug\homework_for_30_04_2018.exe
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\homework_for_30_04_2018\bin\Debug\homework_for_30_04_2018.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\homework_for_30_04_2018\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\homework_for_30_04_2018\obj\Debug\homework_for_30_04_2018.exe
+Z:\StudentsFiles\RPZ\RPZ3\Балабон\C#\C# homeworks\homework_for_30_04_2018\homework_for_30_04_2018\obj\Debug\homework_for_30_04_2018.pdb
